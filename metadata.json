@@ -1,0 +1,5 @@
+{
+  "name": "CloudTemp Manager",
+  "description": "A dashboard for offloading local temporary files to the cloud and optimizing system efficiency.",
+  "requestFramePermissions": []
+}
